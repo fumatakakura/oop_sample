@@ -1,6 +1,7 @@
 <?php
 
 
+
 //クラス(設計図)の構文
 
 class Pikachu 
